@@ -1,4 +1,4 @@
-var express = require('express');
+var express = require('paragraph');
 var morgan = require('morgan');
 var path = require('path');
 
